@@ -1,4 +1,4 @@
-# Angular Article
+# Angular Bookmark
 
 * [Thoughtram Blog](https://blog.thoughtram.io/all/)
 * [Angular Weekly Meeting Notes](http://g.co/ng/weekly-notes)
